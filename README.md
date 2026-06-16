@@ -15,6 +15,23 @@ Now I build systems that save time, remove repetitive work, and make messy proce
 - SEO, content, marketing ops, and growth experiments
 - Learning things the hard way, then making them simpler for everyone else
 
+## What I'm Up To
+
+**Building**
+- 🔧 Agent coding templates and swarm coordination patterns
+- 🔧 Workflow automation tools for n8n and AI pipelines
+- 🔧 Hermes Agent plugins and skill systems
+
+**Learning**
+- 📖 Deeper TypeScript patterns for agent tooling
+- 📖 Python automation and scripting
+- 📖 New AI models and integration approaches
+
+**Open To**
+- 🤝 Automation and AI consulting projects
+- 🤝 Open-source collaboration on agent tooling
+- 🤝 Building workflow systems for teams
+
 ## Tech Stack
 
 - TypeScript / JavaScript / Node.js
