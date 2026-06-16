@@ -41,6 +41,34 @@ Now I build systems that save time, remove repetitive work, and make messy proce
 - [pi-messenger-swarm](https://github.com/ryan-brosas/pi-messenger-swarm) — swarm-first multi-agent messaging and task orchestration for Pi
 - [hermes-tps-counter](https://github.com/ryan-brosas/hermes-tps-counter) — live TPS counter plugin for Hermes Agent
 
+## What I'm Building
+
+Here's what I've been messing with lately:
+
+<a href="https://github.com/ryan-brosas/hermes-tps-counter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=hermes-tps-counter&theme=transparent" alt="hermes-tps-counter">
+</a>
+
+<a href="https://github.com/ryan-brosas/opencode-coding-template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=opencode-coding-template&theme=transparent" alt="opencode-coding-template">
+</a>
+
+<a href="https://github.com/ryan-brosas/pi-coding-template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=pi-coding-template&theme=transparent" alt="pi-coding-template">
+</a>
+
+<a href="https://github.com/ryan-brosas/pi-messenger-swarm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=pi-messenger-swarm&theme=transparent" alt="pi-messenger-swarm">
+</a>
+
+Currently tinkering with: **TypeScript**, **Python**, **Shell** — mostly agent tooling, swarm coordination, and workflow automation.
+
+### Recent Activity
+
+What the commit graph looks like when you can't stop building things:
+
+<img src="https://github-readme-stats.vercel.app/api?username=ryan-brosas&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Recent Activity">
+
 ## A bit about me
 
 I like coffee. A lot.
