@@ -8,12 +8,31 @@ Somehow, all of that made sense later.
 
 Now I build systems that save time, remove repetitive work, and make messy processes easier to run.
 
+---
+
+- [What I'm into](#what-im-into)
+- [What I'm Working On](#what-im-working-on)
+- [Tech Stack](#tech-stack)
+- [Skill Stack](#skill-stack)
+- [Things I've Built / Touched](#things-ive-built--touched)
+- [A bit about me](#a-bit-about-me)
+- [What I care about](#what-i-care-about)
+- [Connect](#connect)
+
+---
+
 ## What I'm into
 
 - Building AI and automation workflows that are actually useful
 - Turning scattered ideas into working systems
 - SEO, content, marketing ops, and growth experiments
 - Learning things the hard way, then making them simpler for everyone else
+
+## What I'm Working On
+
+- Improving [pi-core-beads](https://github.com/ryan-brosas/pi-core-beads) — graph-informed coding workflows with br + bv
+- Building [hermes-tps-counter](https://github.com/ryan-brosas/hermes-tps-counter) — live TPS metrics for Hermes Agent
+- Iterating on multi-agent templates for coding workflows
 
 ## Tech Stack
 
@@ -31,11 +50,12 @@ Now I build systems that save time, remove repetitive work, and make messy proce
 - AI automation
 - SEO and content strategy
 - Marketing ops and GTM experiments
-- Workflow design — I’ve been building things like [opencode-coding-template](https://github.com/ryan-brosas/opencode-coding-template), [pi-coding-template](https://github.com/ryan-brosas/pi-coding-template), and [pi-core-beads](https://github.com/ryan-brosas/pi-core-beads)
+- Workflow design — I've been building things like [opencode-coding-template](https://github.com/ryan-brosas/opencode-coding-template), [pi-coding-template](https://github.com/ryan-brosas/pi-coding-template), and [pi-core-beads](https://github.com/ryan-brosas/pi-core-beads)
 - Turning messy ideas into clear systems, because apparently being waaaack at systems is how you end up accidentally building system tools
 
 ## Things I've Built / Touched
 
+- [pi-core-beads](https://github.com/ryan-brosas/pi-core-beads) — graph-informed coding workflow template using br and bv
 - [opencode-coding-template](https://github.com/ryan-brosas/opencode-coding-template) — OpenCode coding agent template with skills, agents, and swarm coordination
 - [pi-coding-template](https://github.com/ryan-brosas/pi-coding-template) — reusable Pi coding-agent template
 - [pi-messenger-swarm](https://github.com/ryan-brosas/pi-messenger-swarm) — swarm-first multi-agent messaging and task orchestration for Pi
@@ -58,4 +78,4 @@ Just tools, workflows, and systems that help people get unstuck, save time, or t
 ## Connect
 
 - [LinkedIn](https://linkedin.com/in/ryanjosebrosas)
-- [GitHub](https://github.com/ryanjosebrosas)
+- [GitHub](https://github.com/ryan-brosas)
