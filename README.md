@@ -71,6 +71,7 @@ Now I build systems that save time, remove repetitive work, and make messy proce
 ## Things I've Built / Touched
 
 <!--START_SECTION:projects-->
+- [second-brain-engine](https://github.com/ryan-brosas/second-brain-engine) — No description ⭐ 0
 - [pi-core-beads](https://github.com/ryan-brosas/pi-core-beads) — No description ⭐ 0
 - [hermes-tps-counter](https://github.com/ryan-brosas/hermes-tps-counter) — Hermes Agent plugin — live TPS (tokens-per-second) in the status bar ⭐ 0
 - [pi-coding-template](https://github.com/ryan-brosas/pi-coding-template) — Reusable Pi coding-agent template ⭐ 0
