@@ -21,6 +21,23 @@ Now I build systems that save time, remove repetitive work, and make messy proce
 - SEO, content, marketing ops, and growth experiments
 - Learning things the hard way, then making them simpler for everyone else
 
+## What I'm Up To
+
+**Building**
+- 🔧 Agent coding templates and swarm coordination patterns
+- 🔧 Workflow automation tools for n8n and AI pipelines
+- 🔧 Hermes Agent plugins and skill systems
+
+**Learning**
+- 📖 Deeper TypeScript patterns for agent tooling
+- 📖 Python automation and scripting
+- 📖 New AI models and integration approaches
+
+**Open To**
+- 🤝 Automation and AI consulting projects
+- 🤝 Open-source collaboration on agent tooling
+- 🤝 Building workflow systems for teams
+
 ## Tech Stack
 
 - TypeScript / JavaScript / Node.js
@@ -48,6 +65,34 @@ Now I build systems that save time, remove repetitive work, and make messy proce
 - [pi-coding-template](https://github.com/ryan-brosas/pi-coding-template) — Reusable Pi coding-agent template ⭐ 0
 - [opencode-coding-template](https://github.com/ryan-brosas/opencode-coding-template) — OpenCode coding agent template with skills, agents, and swarm coordination ⭐ 0
 <!--END_SECTION:projects-->
+
+## What I'm Building
+
+Here's what I've been messing with lately:
+
+<a href="https://github.com/ryan-brosas/hermes-tps-counter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=hermes-tps-counter&theme=transparent" alt="hermes-tps-counter">
+</a>
+
+<a href="https://github.com/ryan-brosas/opencode-coding-template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=opencode-coding-template&theme=transparent" alt="opencode-coding-template">
+</a>
+
+<a href="https://github.com/ryan-brosas/pi-coding-template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=pi-coding-template&theme=transparent" alt="pi-coding-template">
+</a>
+
+<a href="https://github.com/ryan-brosas/pi-messenger-swarm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=pi-messenger-swarm&theme=transparent" alt="pi-messenger-swarm">
+</a>
+
+Currently tinkering with: **TypeScript**, **Python**, **Shell** — mostly agent tooling, swarm coordination, and workflow automation.
+
+### Recent Activity
+
+What the commit graph looks like when you can't stop building things:
+
+<img src="https://github-readme-stats.vercel.app/api?username=ryan-brosas&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Recent Activity">
 
 ## A bit about me
 
