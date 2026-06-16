@@ -1,6 +1,15 @@
+<div align="center">
+
 # Hey, I'm Ryan 👋
 
-I'm an Automation & AI Engineer from the Philippines.
+**Automation & AI Engineer | Building systems that save time**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanjosebrosas)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryanjosebrosas)
+
+🔭 Open to collaboration on AI & automation projects
+
+</div>
 
 My path here wasn't exactly a straight line. I started around computer shops, worked in sales, handled clients, did marketing work, built websites, and eventually found my way into automation and AI.
 
@@ -31,7 +40,7 @@ Now I build systems that save time, remove repetitive work, and make messy proce
 - AI automation
 - SEO and content strategy
 - Marketing ops and GTM experiments
-- Workflow design — I’ve been building things like [opencode-coding-template](https://github.com/ryan-brosas/opencode-coding-template), [pi-coding-template](https://github.com/ryan-brosas/pi-coding-template), and [pi-core-beads](https://github.com/ryan-brosas/pi-core-beads)
+- Workflow design — I've been building things like [opencode-coding-template](https://github.com/ryan-brosas/opencode-coding-template), [pi-coding-template](https://github.com/ryan-brosas/pi-coding-template), and [pi-core-beads](https://github.com/ryan-brosas/pi-core-beads)
 - Turning messy ideas into clear systems, because apparently being waaaack at systems is how you end up accidentally building system tools
 
 ## Things I've Built / Touched
