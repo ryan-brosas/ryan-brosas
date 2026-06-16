@@ -8,6 +8,12 @@ Somehow, all of that made sense later.
 
 Now I build systems that save time, remove repetitive work, and make messy processes easier to run.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanjosebrosas/readme/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanjosebrosas/readme/dist/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ryanjosebrosas/readme/dist/github-snake.svg" />
+</picture>
+
 ## What I'm into
 
 - Building AI and automation workflows that are actually useful
