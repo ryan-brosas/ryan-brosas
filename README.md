@@ -122,4 +122,4 @@ Just tools, workflows, and systems that help people get unstuck, save time, or t
 ## Connect
 
 - [LinkedIn](https://linkedin.com/in/ryanjosebrosas)
-- [GitHub](https://github.com/ryanjosebrosas)
+- [GitHub](https://github.com/ryan-brosas)
