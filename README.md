@@ -21,16 +21,37 @@ Somehow, all of that made sense later.
 
 Now I build systems that save time, remove repetitive work, and make messy processes easier to run.
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanjosebrosas/readme/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanjosebrosas/readme/dist/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ryanjosebrosas/readme/dist/github-snake.svg" />
+</picture>
 
-## 🚀 What I'm into
+## What I'm into
 
 - Building AI and automation workflows that are actually useful
 - Turning scattered ideas into working systems
 - SEO, content, marketing ops, and growth experiments
 - Learning things the hard way, then making them simpler for everyone else
 
----
+## What I'm Up To
+
+**Building**
+- 🔧 Agent coding templates and swarm coordination patterns
+- 🔧 Workflow automation tools for n8n and AI pipelines
+- 🔧 Hermes Agent plugins and skill systems
+
+**Learning**
+- 📖 Deeper TypeScript patterns for agent tooling
+- 📖 Python automation and scripting
+- 📖 New AI models and integration approaches
+
+**Open To**
+- 🤝 Automation and AI consulting projects
+- 🤝 Open-source collaboration on agent tooling
+- 🤝 Building workflow systems for teams
+
+## Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -63,10 +84,41 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 
 ## 🏗️ Things I've Built / Touched
 
-- [opencode-coding-template](https://github.com/ryan-brosas/opencode-coding-template) — OpenCode coding agent template with skills, agents, and swarm coordination
-- [pi-coding-template](https://github.com/ryan-brosas/pi-coding-template) — reusable Pi coding-agent template
-- [pi-messenger-swarm](https://github.com/ryan-brosas/pi-messenger-swarm) — swarm-first multi-agent messaging and task orchestration for Pi
-- [hermes-tps-counter](https://github.com/ryan-brosas/hermes-tps-counter) — live TPS counter plugin for Hermes Agent
+<!--START_SECTION:projects-->
+- [second-brain-engine](https://github.com/ryan-brosas/second-brain-engine) — No description ⭐ 0
+- [pi-core-beads](https://github.com/ryan-brosas/pi-core-beads) — No description ⭐ 0
+- [hermes-tps-counter](https://github.com/ryan-brosas/hermes-tps-counter) — Hermes Agent plugin — live TPS (tokens-per-second) in the status bar ⭐ 0
+- [pi-coding-template](https://github.com/ryan-brosas/pi-coding-template) — Reusable Pi coding-agent template ⭐ 0
+- [opencode-coding-template](https://github.com/ryan-brosas/opencode-coding-template) — OpenCode coding agent template with skills, agents, and swarm coordination ⭐ 0
+<!--END_SECTION:projects-->
+
+## What I'm Building
+
+Here's what I've been messing with lately:
+
+<a href="https://github.com/ryan-brosas/hermes-tps-counter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=hermes-tps-counter&theme=transparent" alt="hermes-tps-counter">
+</a>
+
+<a href="https://github.com/ryan-brosas/opencode-coding-template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=opencode-coding-template&theme=transparent" alt="opencode-coding-template">
+</a>
+
+<a href="https://github.com/ryan-brosas/pi-coding-template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=pi-coding-template&theme=transparent" alt="pi-coding-template">
+</a>
+
+<a href="https://github.com/ryan-brosas/pi-messenger-swarm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=pi-messenger-swarm&theme=transparent" alt="pi-messenger-swarm">
+</a>
+
+Currently tinkering with: **TypeScript**, **Python**, **Shell** — mostly agent tooling, swarm coordination, and workflow automation.
+
+### Recent Activity
+
+What the commit graph looks like when you can't stop building things:
+
+<img src="https://github-readme-stats.vercel.app/api?username=ryan-brosas&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Recent Activity">
 
 ---
 
@@ -100,7 +152,5 @@ Just tools, workflows, and systems that help people get unstuck, save time, or t
 
 ---
 
-## 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanjosebrosas)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryanjosebrosas)
+- [LinkedIn](https://linkedin.com/in/ryanjosebrosas)
+- [GitHub](https://github.com/ryan-brosas)
