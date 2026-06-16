@@ -2,6 +2,8 @@
 
 # Hey, I'm Ryan 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Automation+%26+AI+Engineer;Building+systems+that+save+time;Turning+messy+ideas+into+working+systems;Based+in+the+Philippines;Fueled+by+coffee+and+curiosity&center=true&font=Fira+Code&size=22&width=500&height=50&color=58A6FF&background=00000000&duration=3000&repeat=true)](https://github.com/ryanjosebrosas)
+
 **Automation & AI Engineer | Building systems that save time**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanjosebrosas)
