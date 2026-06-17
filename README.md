@@ -85,9 +85,9 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 ## 🏗️ Things I've Built / Touched
 
 <!--START_SECTION:projects-->
-- [second-brain-engine](https://github.com/ryan-brosas/second-brain-engine) — No description ⭐ 0
 - [pi-core-beads](https://github.com/ryan-brosas/pi-core-beads) — No description ⭐ 0
 - [hermes-tps-counter](https://github.com/ryan-brosas/hermes-tps-counter) — Hermes Agent plugin — live TPS (tokens-per-second) in the status bar ⭐ 0
+- [second-brain-engine](https://github.com/ryan-brosas/second-brain-engine) — No description ⭐ 0
 - [pi-coding-template](https://github.com/ryan-brosas/pi-coding-template) — Reusable Pi coding-agent template ⭐ 0
 - [opencode-coding-template](https://github.com/ryan-brosas/opencode-coding-template) — OpenCode coding agent template with skills, agents, and swarm coordination ⭐ 0
 <!--END_SECTION:projects-->
