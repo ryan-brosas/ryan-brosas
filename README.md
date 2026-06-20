@@ -85,12 +85,12 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 ## 🏗️ Things I've Built / Touched
 
 <!--START_SECTION:projects-->
+- [omp-makora-provider](https://github.com/ryan-brosas/omp-makora-provider) — Makora provider plugin for OMP — DeepSeek V4, GLM 5.1, Kimi K2.6, Qwen 3.6, and more through the Makora inference API ⭐ 0
+- [omp-lilac-provider](https://github.com/ryan-brosas/omp-lilac-provider) — Lilac provider plugin for OMP — Access Kimi K2.6, GLM 5.1, Gemma 4, and MiniMax M2.7 models through Lilac's OpenAI-compatible API on idle GPUs ⭐ 0
+- [hermes-tps-counter](https://github.com/ryan-brosas/hermes-tps-counter) — Hermes Agent plugin — live TPS (tokens-per-second) in the status bar ⭐ 0
 - [ultramode](https://github.com/ryan-brosas/ultramode) — A standalone OMP extension that drives the beads workflow autonomously ⭐ 0
 - [omp-beads-template](https://github.com/ryan-brosas/omp-beads-template) — OMP project template with br/bv beads workflow — skills, commands, agents, and workflow gate for structured planning, execution, and review ⭐ 0
 - [second-brain-engine](https://github.com/ryan-brosas/second-brain-engine) — No description ⭐ 0
-- [omp-lilac-provider](https://github.com/ryan-brosas/omp-lilac-provider) — Lilac provider plugin for OMP — Access Kimi K2.6, GLM 5.1, Gemma 4, and MiniMax M2.7 models through Lilac's OpenAI-compatible API on idle GPUs ⭐ 0
-- [omp-makora-provider](https://github.com/ryan-brosas/omp-makora-provider) — Makora provider plugin for OMP — DeepSeek V4, GLM 5.1, Kimi K2.6, Qwen 3.6, and more through the Makora inference API ⭐ 0
-- [hermes-tps-counter](https://github.com/ryan-brosas/hermes-tps-counter) — Hermes Agent plugin — live TPS (tokens-per-second) in the status bar ⭐ 0
 <!--END_SECTION:projects-->
 
 ## What I'm Building
