@@ -85,6 +85,7 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 ## 🏗️ Things I've Built / Touched
 
 <!--START_SECTION:projects-->
+- [pi-ultra-messenger](https://github.com/ryan-brosas/pi-ultra-messenger) — Continuous Pi worker pool for the Agent Flywheel workflow — fork of pi-messenger-swarm by @monotykamary (Tom) ⭐ 0
 - [template](https://github.com/ryan-brosas/template) — OpenCode template configuration (agents, commands, skills, plugins) ⭐ 0
 - [pi-ntm](https://github.com/ryan-brosas/pi-ntm) — Fork of ntm (Named Tmux Manager) — first-class pi-coding-agent (pi / pia) agent support. ⭐ 0
 - [opencode-template](https://github.com/ryan-brosas/opencode-template) — OpenCode template configuration ⭐ 0
