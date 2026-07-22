@@ -1,15 +1,20 @@
 <div align="center">
 
-# Hey, I'm Ryan 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryan-brosas/ryan-brosas/master/assets/logo-dark.svg">
+  <img src="https://raw.githubusercontent.com/ryan-brosas/ryan-brosas/master/assets/logo.svg" alt="Ryan Brosas — R and lightning mark" width="150">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Automation+%26+AI+Engineer;Building+systems+that+save+time;Turning+messy+ideas+into+working+systems;Based+in+the+Philippines;Fueled+by+coffee+and+curiosity&center=true&font=Fira+Code&size=22&width=500&height=50&color=58A6FF&background=00000000&duration=3000&repeat=true)](https://github.com/ryanjosebrosas)
+# Ryan Brosas
 
-**Automation & AI Engineer | Building systems that save time**
+**Agent Systems Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanjosebrosas)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryanjosebrosas)
+I build agent systems so repetitive work stops coming back to you.
 
-🔭 Open to collaboration on AI & automation projects
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=FEFEFE)](https://github.com/ryan-brosas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=FEFEFE)](https://linkedin.com/in/ryanjosebrosas)
+
+Open to collaboration on agent systems and automation.
 
 </div>
 
@@ -21,12 +26,6 @@ Somehow, all of that made sense later.
 
 Now I build systems that save time, remove repetitive work, and make messy processes easier to run.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanjosebrosas/readme/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanjosebrosas/readme/dist/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ryanjosebrosas/readme/dist/github-snake.svg" />
-</picture>
-
 ## What I'm into
 
 - Building AI and automation workflows that are actually useful
@@ -34,55 +33,43 @@ Now I build systems that save time, remove repetitive work, and make messy proce
 - SEO, content, marketing ops, and growth experiments
 - Learning things the hard way, then making them simpler for everyone else
 
-## What I'm Up To
+## What I'm up to
 
 **Building**
-- 🔧 Agent coding templates and swarm coordination patterns
-- 🔧 Workflow automation tools for n8n and AI pipelines
-- 🔧 Hermes Agent plugins and skill systems
+- Agent coding templates and swarm coordination patterns — so spinning up a new agent isn't a from-scratch problem every time.
+- Workflow automation tools for n8n and AI pipelines — so the boring, repeatable parts stop landing back on a person.
+- Hermes Agent plugins and skill systems — so an agent can do the next step without me babysitting it.
 
 **Learning**
-- 📖 Deeper TypeScript patterns for agent tooling
-- 📖 Python automation and scripting
-- 📖 New AI models and integration approaches
+- Deeper TypeScript patterns for agent tooling.
+- Python for automation and scripting.
+- Where the new AI models actually fit (and where they don't).
 
-**Open To**
-- 🤝 Automation and AI consulting projects
-- 🤝 Open-source collaboration on agent tooling
-- 🤝 Building workflow systems for teams
+**Open to**
+- Automation and AI consulting.
+- Open-source collaboration on agent tooling.
+- Building workflow systems for teams drowning in repetitive work.
 
-## Tech Stack
+## Tech I reach for
 
-## 🛠️ Tech Stack
+[![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=flat-square&logo=typescript&logoColor=FEFEFE)](https://github.com/ryan-brosas)
+[![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=FEFEFE)](https://github.com/ryan-brosas)
+[![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=flat-square&logo=node.js&logoColor=FEFEFE)](https://github.com/ryan-brosas)
+[![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=FEFEFE)](https://github.com/ryan-brosas)
+[![Shell](https://img.shields.io/badge/Shell-1A1A1A?style=flat-square&logo=gnubash&logoColor=FEFEFE)](https://github.com/ryan-brosas)
+[![Git](https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=FEFEFE)](https://github.com/ryan-brosas)
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=FEFEFE)](https://github.com/ryan-brosas)
+[![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=flat-square&logo=n8n&logoColor=FEFEFE)](https://github.com/ryan-brosas)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-F5436E?style=flat-square&logo=n8n&logoColor=white)
-![AI](https://img.shields.io/badge/AI_%26_APIs-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google-search-console&logoColor=white)
+[![AI & Automation](https://img.shields.io/badge/AI_%26_Automation-FF5555?style=flat-square)](https://github.com/ryan-brosas)
 
----
-
-## 💡 Skill Stack
-
-![AI Automation](https://img.shields.io/badge/AI_Automation-FF6B35?style=flat-square)
-![SEO](https://img.shields.io/badge/SEO_%26_Content_Strategy-1ED760?style=flat-square)
-![Marketing Ops](https://img.shields.io/badge/Marketing_Ops_%26_GTM-FF4500?style=flat-square)
-![Workflow Design](https://img.shields.io/badge/Workflow_Design-00CED1?style=flat-square)
-
-I've been building things like [opencode-coding-template](https://github.com/ryan-brosas/opencode-coding-template), [pi-coding-template](https://github.com/ryan-brosas/pi-coding-template), and [pi-core-beads](https://github.com/ryan-brosas/pi-core-beads).
+I've been building things like [original-opencode-template](https://github.com/ryan-brosas/original-opencode-template), [pi-ultra-messenger](https://github.com/ryan-brosas/pi-ultra-messenger), and [fabric-pi-template](https://github.com/ryan-brosas/fabric-pi-template).
 
 I like turning messy ideas into clear systems — because apparently being waaaack at systems is how you end up accidentally building system tools.
 
 ---
 
-## 🏗️ Things I've Built / Touched
+## Things I've Built / Touched
 
 <!--START_SECTION:projects-->
 - [fabric-pi-template](https://github.com/ryan-brosas/fabric-pi-template) — No description ⭐ 1
@@ -96,45 +83,33 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 
 Here's what I've been messing with lately:
 
-<a href="https://github.com/ryan-brosas/hermes-tps-counter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=hermes-tps-counter&theme=transparent" alt="hermes-tps-counter">
+<a href="https://github.com/ryan-brosas/original-opencode-template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=original-opencode-template&theme=transparent&hide_border=true" alt="original-opencode-template">
 </a>
-
-<a href="https://github.com/ryan-brosas/opencode-coding-template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=opencode-coding-template&theme=transparent" alt="opencode-coding-template">
+<a href="https://github.com/ryan-brosas/pi-ultra-messenger">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=pi-ultra-messenger&theme=transparent&hide_border=true" alt="pi-ultra-messenger">
 </a>
-
-<a href="https://github.com/ryan-brosas/pi-coding-template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=pi-coding-template&theme=transparent" alt="pi-coding-template">
-</a>
-
-<a href="https://github.com/ryan-brosas/pi-messenger-swarm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=pi-messenger-swarm&theme=transparent" alt="pi-messenger-swarm">
+<a href="https://github.com/ryan-brosas/fabric-pi-template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-brosas&repo=fabric-pi-template&theme=transparent&hide_border=true" alt="fabric-pi-template">
 </a>
 
 Currently tinkering with: **TypeScript**, **Python**, **Shell** — mostly agent tooling, swarm coordination, and workflow automation.
 
-### Recent Activity
-
-What the commit graph looks like when you can't stop building things:
-
-<img src="https://github-readme-stats.vercel.app/api?username=ryan-brosas&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Recent Activity">
-
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan-brosas&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan-brosas&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-brosas&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-brosas&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
 ---
 
-## ☕ A bit about me
+## A bit about me
 
 I like coffee. A lot.
 
@@ -142,9 +117,7 @@ I hate hot weather because my skin gets irritated and the rashes are annoying as
 
 I also tend to jump between different interests, which used to feel messy. These days I just call it being a polymath and move on.
 
----
-
-## 💚 What I care about
+## What I care about
 
 I like building practical things. Not perfect things. Not shiny things for the sake of it.
 
@@ -152,5 +125,15 @@ Just tools, workflows, and systems that help people get unstuck, save time, or t
 
 ---
 
-- [LinkedIn](https://linkedin.com/in/ryanjosebrosas)
-- [GitHub](https://github.com/ryan-brosas)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryan-brosas/ryan-brosas/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryan-brosas/ryan-brosas/dist/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ryan-brosas/ryan-brosas/dist/github-snake.svg">
+</picture>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=FEFEFE)](https://github.com/ryan-brosas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=FEFEFE)](https://linkedin.com/in/ryanjosebrosas)
+
+</div>
