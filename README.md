@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryan-brosas/ryan-brosas/master/assets/logo-dark.svg">
-  <img src="https://raw.githubusercontent.com/ryan-brosas/ryan-brosas/master/assets/logo.svg" alt="Ryan Brosas — R and lightning mark" width="150">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryan-brosas/ryan-brosas/master/assets/logo-red-dark.svg">
+  <img src="https://raw.githubusercontent.com/ryan-brosas/ryan-brosas/master/assets/logo-red.svg" alt="Ryan Brosas — R and lightning mark" width="150">
 </picture>
 
 # Ryan Brosas
