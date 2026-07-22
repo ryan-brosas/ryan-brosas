@@ -86,6 +86,7 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 
 <!--START_SECTION:projects-->
 - [fabric-pi-template](https://github.com/ryan-brosas/fabric-pi-template) — No description ⭐ 1
+- [original-opencode-template](https://github.com/ryan-brosas/original-opencode-template) — Personal OpenCode template — verifier-centered coding harness (deterministic offline verifier, linear single-writer ship, bounded read-only specialists, prompt fidelity) ⭐ 0
 - [opencode-template](https://github.com/ryan-brosas/opencode-template) — OpenCode template configuration ⭐ 0
 - [pi-ultra-messenger](https://github.com/ryan-brosas/pi-ultra-messenger) — Continuous Pi worker pool for the Agent Flywheel workflow — fork of pi-messenger-swarm by @monotykamary (Tom) ⭐ 0
 - [pi-ntm](https://github.com/ryan-brosas/pi-ntm) — Fork of ntm (Named Tmux Manager) — first-class pi-coding-agent (pi / pia) agent support. ⭐ 0
