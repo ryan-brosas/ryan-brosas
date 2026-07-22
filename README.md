@@ -58,8 +58,8 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 Things I've built and touched. This list refreshes nightly:
 
 <!--START_SECTION:projects-->
-- [original-opencode-template](https://github.com/ryan-brosas/original-opencode-template) — Personal OpenCode template — verifier-centered coding harness (deterministic offline verifier, linear single-writer ship, bounded read-only specialists, prompt fidelity) — stars: 0
 - [fabric-pi-template](https://github.com/ryan-brosas/fabric-pi-template) — No description — stars: 1
+- [original-opencode-template](https://github.com/ryan-brosas/original-opencode-template) — Personal OpenCode template — verifier-centered coding harness (deterministic offline verifier, linear single-writer ship, bounded read-only specialists, prompt fidelity) — stars: 0
 - [opencode-template](https://github.com/ryan-brosas/opencode-template) — OpenCode template configuration — stars: 0
 - [pi-ultra-messenger](https://github.com/ryan-brosas/pi-ultra-messenger) — Continuous Pi worker pool for the Agent Flywheel workflow — fork of pi-messenger-swarm by @monotykamary (Tom) — stars: 0
 - [pi-ntm](https://github.com/ryan-brosas/pi-ntm) — Fork of ntm (Named Tmux Manager) — first-class pi-coding-agent (pi / pia) agent support. — stars: 0
