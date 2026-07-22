@@ -42,7 +42,7 @@ LINES=$(echo "$RESPONSE" | jq -r '
   | .[]
   | "- [" + .name + "](" + .html_url + ") — " +
     (if .description and .description != "" then .description else "No description" end) +
-    " ⭐ " + (.stargazers_count | tostring)
+    " — stars: " + (.stargazers_count | tostring)
 ')
 
 if [[ -z "$LINES" ]]; then
