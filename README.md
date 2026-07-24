@@ -59,6 +59,8 @@ Things I've built and touched. This list refreshes nightly:
 
 <!--START_SECTION:projects-->
 - [fabric-pi-template](https://github.com/ryan-brosas/fabric-pi-template) — No description — stars: 1
+- [personal-website](https://github.com/ryan-brosas/personal-website) — Personal website — credible work, SEO, AI-search accessibility, flexible publishing, static delivery. — stars: 0
+- [mastrabot-resume](https://github.com/ryan-brosas/mastrabot-resume) — No description — stars: 0
 - [original-opencode-template](https://github.com/ryan-brosas/original-opencode-template) — Personal OpenCode template — verifier-centered coding harness (deterministic offline verifier, linear single-writer ship, bounded read-only specialists, prompt fidelity) — stars: 0
 - [opencode-template](https://github.com/ryan-brosas/opencode-template) — OpenCode template configuration — stars: 0
 - [pi-ultra-messenger](https://github.com/ryan-brosas/pi-ultra-messenger) — Continuous Pi worker pool for the Agent Flywheel workflow — fork of pi-messenger-swarm by @monotykamary (Tom) — stars: 0
