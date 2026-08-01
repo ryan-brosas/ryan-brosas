@@ -58,9 +58,10 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 Things I've built and touched. This list refreshes nightly:
 
 <!--START_SECTION:projects-->
+- [codeatlas](https://github.com/ryan-brosas/codeatlas) — No description — stars: 0
+- [mastra-resume-citation-bot](https://github.com/ryan-brosas/mastra-resume-citation-bot) — Mastra resume bot with source-bound PDF citations, verified highlights, and budget-aware retrieval — stars: 0
 - [pi-dashboard](https://github.com/ryan-brosas/pi-dashboard) — Usage, cost, and performance observability for pi — stars: 0
 - [personal-website](https://github.com/ryan-brosas/personal-website) — Personal website — credible work, SEO, AI-search accessibility, flexible publishing, static delivery. — stars: 0
-- [mastra-resume-citation-bot](https://github.com/ryan-brosas/mastra-resume-citation-bot) — Mastra resume bot with source-bound PDF citations, verified highlights, and budget-aware retrieval — stars: 0
 - [pi-core](https://github.com/ryan-brosas/pi-core) — Pi agent environment: configuration, extensions, prompts, skills, workflows, and lifecycle artifacts — stars: 0
 - [fabric-pi-template](https://github.com/ryan-brosas/fabric-pi-template) — No description — stars: 1
 - [original-opencode-template](https://github.com/ryan-brosas/original-opencode-template) — Personal OpenCode template — verifier-centered coding harness (deterministic offline verifier, linear single-writer ship, bounded read-only specialists, prompt fidelity) — stars: 0
