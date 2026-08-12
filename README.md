@@ -58,6 +58,7 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 Things I've built and touched. This list refreshes nightly:
 
 <!--START_SECTION:projects-->
+- [pi-turso-memory](https://github.com/ryan-brosas/pi-turso-memory) — Coding-progression memory for Pi backed by Turso/libSQL: checkpoints, progress ledger, curated Markdown, fail-open retrieval. — stars: 0
 - [ultra-fabric](https://github.com/ryan-brosas/ultra-fabric) — No description — stars: 1
 - [pi-core](https://github.com/ryan-brosas/pi-core) — Pi agent environment: configuration, extensions, prompts, skills, workflows, and lifecycle artifacts — stars: 0
 - [codeatlas](https://github.com/ryan-brosas/codeatlas) — No description — stars: 0
