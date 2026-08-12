@@ -44,6 +44,7 @@ I also tend to jump between different interests, which used to feel messy. These
 ### Open-source contributions
 
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** (40k+ stars) — co-authored merged [PR #9693](https://github.com/diegosouzapw/OmniRoute/pull/9693), improving web-tool reliability for large prompts by anchoring the tool contract at the prompt tail and reminding the current user turn.
+- **[pi-fabric](https://github.com/monotykamary/pi-fabric)** (90+ stars) — merged [PR #22](https://github.com/monotykamary/pi-fabric/pull/22) restoring Main after in-place prewalk continuation; open [PR #30](https://github.com/monotykamary/pi-fabric/pull/30) adds a Veda CLI runner with Agy-backed agent execution.
 
 ### Learning
 
