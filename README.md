@@ -41,6 +41,10 @@ I also tend to jump between different interests, which used to feel messy. These
 - Workflow automation tools for n8n and AI pipelines — so the boring, repeatable parts stop landing back on a person.
 - Hermes Agent plugins and skill systems — so an agent can do the next step without me babysitting it.
 
+### Open-source contributions
+
+- **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** (40k+ stars) — co-authored merged [PR #9693](https://github.com/diegosouzapw/OmniRoute/pull/9693), improving web-tool reliability for large prompts by anchoring the tool contract at the prompt tail and reminding the current user turn.
+
 ### Learning
 
 - Deeper TypeScript patterns for agent tooling.
@@ -87,6 +91,8 @@ Hot weather and I don't get along.
 - Automation and AI consulting.
 - Open-source collaboration on agent tooling.
 - Building workflow systems for teams drowning in repetitive work.
+
+Drowning in repetitive work? [Let's talk about it](https://linkedin.com/in/ryanjosebrosas).
 
 ---
 

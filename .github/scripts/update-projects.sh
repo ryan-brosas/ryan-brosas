@@ -33,14 +33,14 @@ if ! echo "$RESPONSE" | jq -e 'type == "array"' >/dev/null 2>&1; then
   exit 1
 fi
 
-# Filter: no forks, no archived, skip readme repo, skip .github repo
+# Filter: no forks, no archived, skip readme repo, skip .github repo, drop repos without a description
 # Sort by updated_at descending (already sorted by API, but re-sort for safety)
 # Generate markdown lines
 LINES=$(echo "$RESPONSE" | jq -r '
-  [.[] | select(.fork == false and .archived == false and .name != "ryan-brosas" and .name != ".github")]
+  [.[] | select(.fork == false and .archived == false and .name != "ryan-brosas" and .name != ".github" and .description != null and .description != "")]
   | sort_by(.updated_at) | reverse
   | .[]
-  | "- [" + .name + "](" + .html_url + ") — " +
+  | "- **[" + .name + "](" + .html_url + ")** — " +
     (if .description and .description != "" then .description else "No description" end) +
     " — stars: " + (.stargazers_count | tostring)
 ')
