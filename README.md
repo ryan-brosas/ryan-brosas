@@ -63,6 +63,7 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 Things I've built and touched. This list refreshes nightly:
 
 <!--START_SECTION:projects-->
+- **[pi-yolo-auto](https://github.com/ryan-brosas/pi-yolo-auto)** — Pi provider extension for the Yolo-Auto flat-rate Qwen3.8-27B API (OpenAI-compatible, stale-while-revalidate model catalog sync, subscription usage). — stars: 0
 - **[pi-ultra-messenger](https://github.com/ryan-brosas/pi-ultra-messenger)** — Continuous Pi worker pool for the Agent Flywheel workflow — fork of pi-messenger-swarm by @monotykamary (Tom) — stars: 1
 - **[pi-turso-memory](https://github.com/ryan-brosas/pi-turso-memory)** — Coding-progression memory for Pi backed by Turso/libSQL: checkpoints, progress ledger, curated Markdown, fail-open retrieval. — stars: 0
 - **[pi-core](https://github.com/ryan-brosas/pi-core)** — Pi agent environment: configuration, extensions, prompts, skills, workflows, and lifecycle artifacts — stars: 0
