@@ -63,7 +63,7 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 Things I've built and touched. This list refreshes nightly:
 
 <!--START_SECTION:projects-->
-- **[universal-template](https://github.com/ryan-brosas/universal-template)** — Global skill catalog and configuration baseline for AI coding agent CLIs (pi, Claude Code, Codex, OpenCode, Gemini): skills, templates, gates, and policy. — stars: 0
+- **[universal-template](https://github.com/ryan-brosas/universal-template)** — Global skill catalog and configuration baseline for AI coding agent CLIs (pi, Claude Code, Codex, OpenCode, Gemini): skills, templates, gates, and policy. — stars: 1
 - **[elixir-learning-agent](https://github.com/ryan-brosas/elixir-learning-agent)** — Standalone Elixir repository-learning agent — stars: 0
 - **[personal-website](https://github.com/ryan-brosas/personal-website)** — Personal website — credible work, SEO, AI-search accessibility, flexible publishing, static delivery. — stars: 0
 - **[pi-yolo-auto](https://github.com/ryan-brosas/pi-yolo-auto)** — Pi provider extension for the Yolo-Auto flat-rate Qwen3.8-27B API (OpenAI-compatible, stale-while-revalidate model catalog sync, subscription usage). — stars: 0
