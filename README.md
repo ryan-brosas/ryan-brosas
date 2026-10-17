@@ -63,6 +63,7 @@ I like turning messy ideas into clear systems — because apparently being waaaa
 Things I've built and touched. This list refreshes nightly:
 
 <!--START_SECTION:projects-->
+- **[browser-harbor](https://github.com/ryan-brosas/browser-harbor)** — Pi-native browser tools with explicit session ownership, built around browser-harness. Early bootstrap. — stars: 0
 - **[pi-yolo-auto](https://github.com/ryan-brosas/pi-yolo-auto)** — Pi provider extension for the Yolo-Auto flat-rate Qwen3.8-27B API (OpenAI-compatible, stale-while-revalidate model catalog sync, subscription usage). — stars: 0
 - **[workspan](https://github.com/ryan-brosas/workspan)** — Working time across tools, without counting it twice: one local accounting core, an Omarchy shell plugin, and adapters for Pi, Codex and other evidence sources. — stars: 0
 - **[pi-time-tracker](https://github.com/ryan-brosas/pi-time-tracker)** — Working-hours tracking for Pi with native Bend overlap reconciliation and receipt auditing. — stars: 1
